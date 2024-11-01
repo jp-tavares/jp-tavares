@@ -1,65 +1,48 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ooi, Hii I'm João Tavares!</h2>
+<p><em>Full Stack Developer at Hexagon</em></p>
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/jp-tavares/)
+[![Linkedin: jp-tavares](https://img.shields.io/badge/-jp--tavares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jp-tavares/)](https://www.linkedin.com/in/jp-tavares/)
 ![GitHub followers](https://img.shields.io/github/followers/jp-tavares?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=jp-tavares.jp-tavares)
-![Waka Readme](https://github.com/jp-tavares/jp-tavares/workflows/Waka%20Readme/badge.svg)
 
 ### 📫 Like to meet me?
 
-Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
-
-<a href="https://calendly.com/jp-tavares/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/jp-tavares/npx_card)**
+Send me a message on [LinkedIn](https://www.linkedin.com/in/jp-tavares/).
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const anmol = {
+const jp_tavares = {
     pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
+    code: ["TypeScript", "Javascript", "c#", "Python", "Dart"],
+    askMeAbout: ["web dev", "app dev", "Backend", "UI/UX", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+            uiLibraries: ["Material UI", "Shad CN"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
+            C#: [".NET"],
         },
         mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+            crossPlatform: ["Flutter", "React Native"],
+        },,
         cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
+            aws: ["EC2", "S3"],
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        databases: ["PostgreSQL", "SQLite", "Oracle"],
+        misc: ["REST APIs", "WebSockets",]
     },
     architecture: {
         frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+        backEnd: ["microservices", "monolithic"],
+        databases: ["Relational", "NoSQL"],
     },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    currentFocus: "Learning new things",
+    funFact: "I can code better seated in wrong positions"
 };
 ```
 
@@ -144,6 +127,6 @@ Dart                     5 repos             ██░░░░░░░░░�
  Last Updated on 01/11/2024 00:33:59 UTC
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/jp-tavares/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
