@@ -49,15 +49,17 @@ const jp_tavares = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 58.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,17 +94,17 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               8 hrs 38 mins       ███████████████████████░░   90.19 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               6 hrs 39 mins       ███████████████████████░░   92.17 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 35 mins       █████████████████████████   100.00 % 
+Cursor                   7 hrs 13 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +120,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2024 18:45:31 UTC
+ Last Updated on 14/11/2024 18:46:51 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
