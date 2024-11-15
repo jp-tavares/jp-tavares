@@ -51,7 +51,7 @@ const jp_tavares = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-182-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183.9%20thousand%20lines%20of%20code-blue)
 
@@ -94,17 +94,17 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               6 hrs 39 mins       ███████████████████████░░   92.17 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               6 hrs 13 mins       ███████████████████████░░   92.58 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 13 mins       █████████████████████████   100.00 % 
+Cursor                   6 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 18:46:51 UTC
+ Last Updated on 15/11/2024 18:46:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
