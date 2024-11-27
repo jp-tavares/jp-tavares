@@ -49,17 +49,15 @@ const jp_tavares = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 58.8 kB Used in GitHub's Storage 
- > 
-> 🏆 7 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -94,19 +92,19 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               7 hrs 53 mins       ████████████████████░░░░░   81.99 % 
-JSON                     1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-TSConfig                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TypeScript               8 hrs 52 mins       ██████████████████████░░░   88.63 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+TSConfig                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Image (svg)              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-WebStorm                 9 hrs 24 mins       ████████████████████████░   97.90 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+WebStorm                 9 hrs 48 mins       ████████████████████████░   97.99 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 
 💻 Operating System: 
-Linux                    9 hrs 24 mins       ████████████████████████░   97.90 % 
-Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Linux                    9 hrs 48 mins       ████████████████████████░   97.99 % 
+Windows                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -122,7 +120,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2024 18:47:40 UTC
+ Last Updated on 27/11/2024 18:48:22 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
