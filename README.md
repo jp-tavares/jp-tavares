@@ -49,7 +49,7 @@ const jp_tavares = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,8 +58,6 @@ const jp_tavares = {
 **🐱 My GitHub Data** 
 
 > 📦 58.8 kB Used in GitHub's Storage 
- > 
-> 🏆 17 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -94,17 +92,17 @@ Sunday                   1 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-TypeScript               2 hrs 8 mins        ███████████████████░░░░░░   75.09 % 
-JSON                     34 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-.env file                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript               1 hr 45 mins        ██████████████████████░░░   89.64 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+TSConfig                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-WebStorm                 2 hrs 50 mins       █████████████████████████   100.00 % 
+WebStorm                 1 hr 58 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 50 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +118,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2024 18:49:31 UTC
+ Last Updated on 18/12/2024 18:47:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
