@@ -59,8 +59,6 @@ const jp_tavares = {
 
 > 📦 58.8 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -116,7 +114,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2025 18:44:16 UTC
+ Last Updated on 17/01/2025 18:43:49 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
