@@ -49,6 +49,8 @@ const jp_tavares = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186.5%20thousand%20lines%20of%20code-blue)
@@ -112,7 +114,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2025 18:57:01 UTC
+ Last Updated on 31/07/2025 18:56:50 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
