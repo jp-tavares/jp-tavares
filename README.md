@@ -49,6 +49,8 @@ const jp_tavares = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-186.2%20thousand%20lines%20of%20code-blue)
@@ -65,6 +67,42 @@ const jp_tavares = {
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+🌆 Daytime                61 commits          █████████████░░░░░░░░░░░░   51.26 % 
+🌃 Evening                27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Thursday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Friday                   31 commits          ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -78,7 +116,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 18:48:14 UTC
+ Last Updated on 04/11/2025 18:50:42 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
