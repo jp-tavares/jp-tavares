@@ -65,42 +65,6 @@ const jp_tavares = {
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                26 commits          █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-🌆 Daytime                61 commits          █████████████░░░░░░░░░░░░   51.26 % 
-🌃 Evening                27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Tuesday                  21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Wednesday                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Thursday                 27 commits          ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-Friday                   31 commits          ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Saturday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Sunday                   1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -114,7 +78,7 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 18:53:17 UTC
+ Last Updated on 03/01/2026 18:51:47 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
